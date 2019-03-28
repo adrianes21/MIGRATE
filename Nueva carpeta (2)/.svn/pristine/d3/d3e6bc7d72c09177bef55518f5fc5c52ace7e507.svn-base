@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_Klg8cB70EemTmfM5VeO-Ww" id="_KlgVYR70EemTmfM5VeO-Ww" label="FR_Amount_Money" purpose="3000 € | 35 k€ | 35 054 T€" description="Amount of money in French format" version="0.1" statusCode="development" item="_Klg8ch70EemTmfM5VeO-Ww" displayName="FR Amount Money">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KlixoB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KlixoR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_Klixoh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:24.282+0100"/>
+    <additionalProperties xmi:id="_Klixox70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KlixpB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KlixpR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:24.282+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Klg8cR70EemTmfM5VeO-Ww" path="Regex/currency"/>
+  <dataquality.properties:TDQPatternItem xmi:id="_Klg8ch70EemTmfM5VeO-Ww" property="_Klg8cB70EemTmfM5VeO-Ww" state="_Klg8cR70EemTmfM5VeO-Ww" filename="FR_Amount_Money_0.1.pattern">
+    <pattern href="FR_Amount_Money_0.1.pattern#_MKEKcEClEeWDcpMk51Q9_w"/>
+  </dataquality.properties:TDQPatternItem>
+</xmi:XMI>

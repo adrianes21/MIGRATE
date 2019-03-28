@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KElZoR70EemTmfM5VeO-Ww" id="_KElZoB70EemTmfM5VeO-Ww" label="Row_Comparison" purpose="Compare content of two column sets" description="Counts the number of data from a column set A that match data of a column set B" version="0.1" statusCode="development" item="_KElZox70EemTmfM5VeO-Ww" displayName="Row Comparison">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KEnO0B70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KEnO0R70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KEnO0h70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:20.829+0100"/>
+    <additionalProperties xmi:id="_KEnO0x70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KEnO1B70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KEnO1R70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:20.829+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KElZoh70EemTmfM5VeO-Ww" path="System Indicators/Row Comparison"/>
+  <dataquality.properties:TDQIndicatorDefinitionItem xmi:id="_KElZox70EemTmfM5VeO-Ww" property="_KElZoR70EemTmfM5VeO-Ww" state="_KElZoh70EemTmfM5VeO-Ww" filename="Row_Comparison_0.1.definition">
+    <indicatorDefinition href="Row_Comparison_0.1.definition#_jMh4gJE3Ed2HGNmGoaS-_w"/>
+  </dataquality.properties:TDQIndicatorDefinitionItem>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KUI4kB70EemTmfM5VeO-Ww" id="_KUIRgR70EemTmfM5VeO-Ww" label="Soundex_Frequency_Table" purpose="evaluates the most frequent records with respect to their soundex value" description="counts the number of records for each record with a distinct soundex" version="0.1" statusCode="development" item="_KUI4kh70EemTmfM5VeO-Ww" displayName="Soundex Frequency Table">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KUMi8B70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KUMi8R70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KUMi8h70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:22.463+0100"/>
+    <additionalProperties xmi:id="_KUMi8x70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KUMi9B70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KUMi9R70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:22.463+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KUI4kR70EemTmfM5VeO-Ww" path="System Indicators/Soundex"/>
+  <dataquality.properties:TDQIndicatorDefinitionItem xmi:id="_KUI4kh70EemTmfM5VeO-Ww" property="_KUI4kB70EemTmfM5VeO-Ww" state="_KUI4kR70EemTmfM5VeO-Ww" filename="Soundex_Frequency_Table_0.1.definition">
+    <indicatorDefinition href="Soundex_Frequency_Table_0.1.definition#_VGep4Pa7Ed24-N3PsP_o-w"/>
+  </dataquality.properties:TDQIndicatorDefinitionItem>
+</xmi:XMI>

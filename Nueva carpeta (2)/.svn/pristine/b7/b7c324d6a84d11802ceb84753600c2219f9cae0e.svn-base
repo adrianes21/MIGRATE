@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KY1yYB70EemTmfM5VeO-Ww" id="_KY1LUR70EemTmfM5VeO-Ww" label="Regular_Expression_Matching" purpose="evaluate the number of records that match a regular pattern" description="counts the number of records matching the given pattern against the number of records that do not match the given pattern" version="0.1" statusCode="development" item="_KY1yYh70EemTmfM5VeO-Ww" displayName="Regular Expression Matching">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KY3nkB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KY3nkR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KY3nkh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:22.953+0100"/>
+    <additionalProperties xmi:id="_KY3nkx70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KY3nlB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KY3nlR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:22.953+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KY1yYR70EemTmfM5VeO-Ww" path="System Indicators/Pattern Matching"/>
+  <dataquality.properties:TDQIndicatorDefinitionItem xmi:id="_KY1yYh70EemTmfM5VeO-Ww" property="_KY1yYB70EemTmfM5VeO-Ww" state="_KY1yYR70EemTmfM5VeO-Ww" filename="Regular_Expression_Matching_0.1.definition">
+    <indicatorDefinition href="Regular_Expression_Matching_0.1.definition#_yb-_8Dh8Ed2XmO7pl5Yuyg"/>
+  </dataquality.properties:TDQIndicatorDefinitionItem>
+</xmi:XMI>

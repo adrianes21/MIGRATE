@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KLB_4h70EemTmfM5VeO-Ww" id="_KLB_4R70EemTmfM5VeO-Ww" label="Pattern_Low_Frequency_Table" purpose="evaluates the less frequent patterns" description="counts the number of patterns for each distinct pattern" version="0.1" statusCode="development" item="_KLB_5B70EemTmfM5VeO-Ww" displayName="Pattern Low Frequency Table">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KLG4YB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KLG4YR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KLG4Yh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:21.510+0100"/>
+    <additionalProperties xmi:id="_KLG4Yx70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KLG4ZB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KLG4ZR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:21.510+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KLB_4x70EemTmfM5VeO-Ww" path="System Indicators/Pattern Frequency Statistics"/>
+  <dataquality.properties:TDQIndicatorDefinitionItem xmi:id="_KLB_5B70EemTmfM5VeO-Ww" property="_KLB_4h70EemTmfM5VeO-Ww" state="_KLB_4x70EemTmfM5VeO-Ww" filename="Pattern_Low_Frequency_Table_0.1.definition">
+    <indicatorDefinition href="Pattern_Low_Frequency_Table_0.1.definition#_OCTbwJR_Ed2XO-JvLwVAwg"/>
+  </dataquality.properties:TDQIndicatorDefinitionItem>
+</xmi:XMI>

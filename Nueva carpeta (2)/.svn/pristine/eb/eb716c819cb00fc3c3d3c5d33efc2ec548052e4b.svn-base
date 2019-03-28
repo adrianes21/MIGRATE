@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_K4UjsB70EemTmfM5VeO-Ww" id="_K4T8oR70EemTmfM5VeO-Ww" label="IPv6_Address" purpose="Check if it is a IPv6 address" description="IPv6 address" version="0.1" statusCode="development" item="_K4Ujsh70EemTmfM5VeO-Ww" displayName="IPv6 Address">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_K4aDQB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_K4aDQR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_K4aDQh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:26.260+0100"/>
+    <additionalProperties xmi:id="_K4aDQx70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_K4aDRB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_K4aDRR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:26.260+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_K4UjsR70EemTmfM5VeO-Ww" path="Regex/internet"/>
+  <dataquality.properties:TDQPatternItem xmi:id="_K4Ujsh70EemTmfM5VeO-Ww" property="_K4UjsB70EemTmfM5VeO-Ww" state="_K4UjsR70EemTmfM5VeO-Ww" filename="IPv6_Address_0.1.pattern">
+    <pattern href="IPv6_Address_0.1.pattern#_IVLZAECkEeWDcpMk51Q9_w"/>
+  </dataquality.properties:TDQPatternItem>
+</xmi:XMI>

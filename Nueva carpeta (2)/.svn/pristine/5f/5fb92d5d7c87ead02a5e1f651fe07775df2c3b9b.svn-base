@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_LF0NIB70EemTmfM5VeO-Ww" id="_LFzmER70EemTmfM5VeO-Ww" label="FR_Insee_Code" purpose=" FRA-2A235 | F-2B128 | FRA 2B356" description="French Insee code of cities with Corsica and colonies" version="0.1" statusCode="development" item="_LF0NIh70EemTmfM5VeO-Ww" displayName="FR Insee Code">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_LF1bQB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_LF1bQR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_LF1bQh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:27.668+0100"/>
+    <additionalProperties xmi:id="_LF1bQx70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_LF1bRB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_LF1bRR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:27.668+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_LF0NIR70EemTmfM5VeO-Ww" path="Regex/address"/>
+  <dataquality.properties:TDQPatternItem xmi:id="_LF0NIh70EemTmfM5VeO-Ww" property="_LF0NIB70EemTmfM5VeO-Ww" state="_LF0NIR70EemTmfM5VeO-Ww" filename="FR_Insee_Code_0.1.pattern">
+    <pattern href="FR_Insee_Code_0.1.pattern#_wXkbQEChEeWDcpMk51Q9_w"/>
+  </dataquality.properties:TDQPatternItem>
+</xmi:XMI>

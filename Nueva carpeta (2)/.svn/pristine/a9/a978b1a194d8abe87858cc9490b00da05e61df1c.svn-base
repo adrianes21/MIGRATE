@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KhD6QB70EemTmfM5VeO-Ww" id="_KhDTMR70EemTmfM5VeO-Ww" label="Bank_Routing_Transit_Number__RTN_" purpose="614321634, 114000900, 7034520981145329, 491212012, banana" description="Ensures a given string matches the basic pattern of a bank routing transit number (RTN), used to identify financial institutions on instruments such as checks. Ensures number is nine digits long and has first two digits that comply with American Bankers Association rules." version="0.1" statusCode="Draft" item="_KhD6Qh70EemTmfM5VeO-Ww" displayName="Bank Routing Transit Number (RTN)">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KhIywB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KhIywR70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KhIywh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:23.820+0100"/>
+    <additionalProperties xmi:id="_KhJZ0B70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KhJZ0R70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KhJZ0h70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:23.820+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KhD6QR70EemTmfM5VeO-Ww" path="Regex/number"/>
+  <dataquality.properties:TDQPatternItem xmi:id="_KhD6Qh70EemTmfM5VeO-Ww" property="_KhD6QB70EemTmfM5VeO-Ww" state="_KhD6QR70EemTmfM5VeO-Ww" filename="Bank_Routing_Transit_Number__RTN__0.1.pattern">
+    <pattern href="Bank_Routing_Transit_Number__RTN__0.1.pattern#_j5FFMIydEd6Dle_8xC0lwg"/>
+  </dataquality.properties:TDQPatternItem>
+</xmi:XMI>

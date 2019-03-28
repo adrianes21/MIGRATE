@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:dataquality.properties="http://dataquality.properties">
+  <TalendProperties:Property xmi:id="_KOzsoB70EemTmfM5VeO-Ww" id="_KOzFkR70EemTmfM5VeO-Ww" label="Sum" purpose="evaluate the sum of the records" description="sums all the records" version="0.1" statusCode="development" item="_KOzsoh70EemTmfM5VeO-Ww" displayName="Sum">
+    <author href="../../../../talend.project#_f67-sB7wEem39Pg5-0GZJg"/>
+    <additionalProperties xmi:id="_KO3-EB70EemTmfM5VeO-Ww" key="created_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KO3-ER70EemTmfM5VeO-Ww" key="created_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KO3-Eh70EemTmfM5VeO-Ww" key="created_date" value="2019-01-23T10:49:21.905+0100"/>
+    <additionalProperties xmi:id="_KO3-Ex70EemTmfM5VeO-Ww" key="modified_product_fullname" value="Talend Data Fabric"/>
+    <additionalProperties xmi:id="_KO3-FB70EemTmfM5VeO-Ww" key="modified_product_version" value="6.5.1.20180116_1512"/>
+    <additionalProperties xmi:id="_KO3-FR70EemTmfM5VeO-Ww" key="modified_date" value="2019-01-23T10:49:21.905+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_KOzsoR70EemTmfM5VeO-Ww" path="System Indicators/Summary Statistics"/>
+  <dataquality.properties:TDQIndicatorDefinitionItem xmi:id="_KOzsoh70EemTmfM5VeO-Ww" property="_KOzsoB70EemTmfM5VeO-Ww" state="_KOzsoR70EemTmfM5VeO-Ww" filename="Sum_0.1.definition">
+    <indicatorDefinition href="Sum_0.1.definition#_ccJgAhF2Ed2PKb6nEJEvhw"/>
+  </dataquality.properties:TDQIndicatorDefinitionItem>
+</xmi:XMI>
